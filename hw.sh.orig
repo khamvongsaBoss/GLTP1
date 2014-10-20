@@ -1,0 +1,6 @@
+echo Hello World
+<<<<<<< HEAD
+echo Ok ta mer
+=======
+echo Chaud cacao
+>>>>>>> f448113743ecca24d082845fbd358eb56111c683
